@@ -84,7 +84,7 @@ The official DUXO Whitepaper provides additional information about the project's
 
 ## Official Links
 
-* **X:** [DUXO on X](https://x.com/)
+* **X:** [DUXO on X](https://x.com/Duxotoken)
 * **GitHub:** [DUXO GitHub](https://github.com/DuxoToken/duxo)
 
 ---
